@@ -85,7 +85,7 @@ https://api.example.com/v1/
 https://api.example.com/v2/
 ```
 
-4. API 接口 url 请求中只能含有动词，不能含有名词且支持复数。此外，所用名词应当与数据库中的表名对应，如下示例：
+4. API 接口 url 请求中只能含有名词，不能含有动词且支持复数。此外，所用名词应当与数据库中的表名对应，如下示例：
 
 ```
 https://api.example.com/v1/book/         # 规范
